@@ -4,3 +4,6 @@
 
 # Model Training Code
 [External Link](https://colab.research.google.com/drive/1Ui5ySRWv5PiX_fcsOCvZ9jSsMvCunfpT#scrollTo=KlpmF1fWIo8s)
+
+# Live Presentation
+[Youtube Link](https://www.youtube.com/watch?v=F-U-gnqYOEk)
